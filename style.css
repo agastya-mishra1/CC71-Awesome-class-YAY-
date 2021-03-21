@@ -1,0 +1,140 @@
+body{
+background-color: burlywood;
+text-align: center;    
+}
+#aly{
+height: 600px;
+width: 1500px;     
+}
+#name{
+color: firebrick;
+font-style: oblique;
+font-weight: bold;
+font-size: 40px;    
+}
+#c{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;    
+}
+#phone{
+font-weight:bold;
+color:darkgreen;    
+}
+#marque{
+font-size: 30px;
+font-weight: 400;
+color: darkviolet;    
+}
+.s{
+margin: 20px;    
+}
+#The{
+height: 400px;
+width: 1500px;    
+}
+#Lib{
+height: 400px;
+width: 1500px;    
+}
+#cam{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;    
+}
+#room{
+height: 400px;
+width: 1500px;    
+}
+#camp{
+background-color: deepskyblue;    
+}
+#contact{
+background-color:hotpink;
+}
+h2{
+font-size: 25px;
+font-weight: bold;
+color:red;
+}
+#ach{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;    
+}
+#achieve{
+background-color: chartreuse;    
+}
+#IM{
+height: 400px;
+width: 1500px;    
+}
+#AM{
+height: 400px;
+width: 1500px;    
+}
+#spee{
+font-size: 40px;
+font-weight: 600;
+color: darkslategray;
+background-color: azure;    
+}
+#he{
+font-size: 40px;
+font-weight: 600;
+color: darkmagenta;
+background-color: darksalmon;    
+}
+#w{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;    
+}
+#what{
+background-color: gold;
+}
+#first{
+color: red;
+text-align: center;
+font-size: 20px;   
+}
+#second{
+color: red;
+text-align: center;
+font-size: 20px;
+}
+#third{
+color: red;
+text-align: center;
+font-size: 20px;
+}
+#alumni{
+background-color: aliceblue;
+}
+#alu{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;   
+}
+#sp1{
+height: 300px;
+width:300px;    
+}
+.asap{
+margin: 20px;    
+}
+#tc{
+font-weight: 700;
+color: black;
+font-size: 27px;    
+}
+#sp2{
+height: 300px;
+width:300px;    
+}
+#sp3{
+height: 300px;
+width:300px;    
+}
+
+
